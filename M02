@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Module 02</title>
+</head> HTML Table Example
+<body>
+  <Img src = https://www.instacart.com/company/wp-content/uploads/2021/10/meal-plan-paper-1050x525.jpgp
+       alt: "What is Meal Planning and Why is It Important?" title= "Meal Plan"/></h1>
+    <p>
+      <h1> <td colspan="2"> HTML Table Example 
+  <h2> Meal Planner 
+  <h1> Recipe Index:
+    <table border ="1">
+      <tr align="center">
+        <th>Sunday</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+      </tr>
+      <tr align="center">
+        <td>Pot Roast</td>
+        <td> Spinach Feta Pizza</td>
+        <td>Vegetarian Burger</td>
+        <td>Roasted Chicken and Sweet potatoes</td>
+        <td>Salmon Broil</td>
+        <td>Spicy Curry</td>
+        <td>Pasta</td>
+
+</body>
+</html>
