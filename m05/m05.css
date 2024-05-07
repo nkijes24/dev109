@@ -8,7 +8,7 @@ body {
 	margin: 0px 0px 0px 0px;}
 
 h1 {
-	background-image: url(https://bullseye.education/wp-content/uploads/2023/10/bullseye_logo-2.png);
+	background-image: url('https://javascriptbook.com/code/c04/images/bullseye-logo.png');
 	background-repeat: no-repeat;
 	text-indent: 100%;
 	white-space: nowrap;
