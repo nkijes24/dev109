@@ -6,6 +6,15 @@ background: #e5e5e5;
 color: #3f3f3f;
 font-size: 16px;
 line-height: 24px;
+background-image: url((https://upload.wikimedia.org/wikipedia/commons/f/f6/Bellevue_College_logo.svg));
+background-repeat:no-repeat;
+background-color:beige;
+background-size:contain;
+background-position: right;
+width: 2000px;
+height:200px
+margin: 0 auto;
+font-family: 'GrotesqueBourgeoisieRegular';
 }
 
 a { color: #000088; }
