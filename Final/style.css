@@ -1,0 +1,86 @@
+h1{
+    font-family: arial;
+    text-align: center;
+    text-decoration: solid;
+  }
+  .navbar ul{
+    list-style-type: none;
+    background-color: hsl(274, 29%, 22%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+  }
+  .navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-family: arial;
+  }
+  Body{
+    animation: transitionIn 0.75s;
+    margin: 0px;
+    font-family: sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/007/762/665/original/graphics-drawing-landscape-view-nature-mountain-and-light-of-sunset-for-wallpaper-background-illustration-free-vector.jpg)
+}
+@keyframes transitionin{
+    from{
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.contact-box{
+    width: 500px;
+    background-color: #fff;
+    box-shadow: 0 0 20px - #999 ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+form{
+    margin: 35px;
+}
+.input-field{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.textarea-field{
+    height: 150px;
+    padding-top: 10px;   
+}
+.btn{
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #67723e;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: none;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  .navbar a:hover{
+     background-color: hsl(0, 0%, 10%);
+  }
+  .navbar li{
+    float: left;
+  }
