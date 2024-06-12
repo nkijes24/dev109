@@ -3,9 +3,16 @@ h1{
     text-align: center;
     text-decoration: solid;
   }
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+h3{
+    text-align: left;
+}
   .navbar ul{
     list-style-type: none;
-    background-color: hsl(274, 29%, 22%);
+    background-color: hsl(270, 1%, 30%);
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -22,7 +29,14 @@ h1{
     animation: transitionIn 0.75s;
     margin: 0px;
     font-family: sans-serif;
-    background-image: url(https://static.vecteezy.com/system/resources/previews/007/762/665/original/graphics-drawing-landscape-view-nature-mountain-and-light-of-sunset-for-wallpaper-background-illustration-free-vector.jpg)
+    background-image: url(https://static.vecteezy.com/system/resources/previews/025/368/196/original/landscape-background-wall-art-foliage-line-art-drawing-with-abstract-shape-plant-art-design-for-print-cover-wallpaper-vector.jpg);
+}
+img{
+    overflow: hidden;
+    align-content: center;
+}
+.content{
+    text-align: left;
 }
 @keyframes transitionin{
     from{
